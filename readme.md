@@ -1,4 +1,4 @@
-# Wine Quality Prediction
+# Wine Quality Prediction (MLOPS PROJECT)
 
 A small regression project that trains a scikit-learn Random Forest, tracks
 training parameters and metrics with MLflow, and versions the dataset with DVC.
