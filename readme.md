@@ -1,4 +1,4 @@
-# Wine Quality Prediction (MLOPS PROJECT)
+# Wine Quality Prediction (MLOPS PROJECT: DVC, GITHUB, KUBERNETES, MLFLOW)
 
 A small regression project that trains a scikit-learn Random Forest, tracks
 training parameters and metrics with MLflow, and versions the dataset with DVC.
