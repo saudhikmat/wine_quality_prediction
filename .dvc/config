@@ -1,0 +1,4 @@
+[core]
+    remote = winedatasetremote
+['remote "winedatasetremote"']
+    url = s3://wineprediction-data-store
